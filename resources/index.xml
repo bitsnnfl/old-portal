@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Resources on NNFL Portal</title>
+		<link>https://bitsnnfl.github.io/resources/</link>
+		<description>Recent content in Resources on NNFL Portal</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Mon, 04 Feb 2019 08:41:54 +0000</lastBuildDate>
+		<atom:link href="https://bitsnnfl.github.io/resources/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title></title>
+			<link>https://bitsnnfl.github.io/resources/notebooks/</link>
+			<pubDate>Mon, 04 Feb 2019 08:41:54 +0000</pubDate>
+			
+			<guid>https://bitsnnfl.github.io/resources/notebooks/</guid>
+			<description>Please find all the notebooks that we used python and numpy workshops in the following link.
+https://github.com/bitsnnfl/Tutorials</description>
+			<content type="html"><![CDATA[<p>Please find all the notebooks that we used python and numpy workshops in the following link.</p>
+
+<p><a href="https://github.com/bitsnnfl/Tutorials" title="https://github.com/bitsnnfl/Tutorials" target="_blank">https://github.com/bitsnnfl/Tutorials</a></p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>
