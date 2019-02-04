@@ -3,16 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bitsnnfl.github.io/resources/post-with-featured-image/</loc>
-    <lastmod>2018-10-01T16:15:09+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bitsnnfl.github.io/resources/typography/</loc>
-    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bitsnnfl.github.io/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
@@ -23,48 +13,13 @@
   </url>
   
   <url>
-    <loc>https://bitsnnfl.github.io/resources/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bitsnnfl.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bitsnnfl.github.io/tags/demo/</loc>
-    <lastmod>2018-10-01T16:15:09+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bitsnnfl.github.io/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bitsnnfl.github.io/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bitsnnfl.github.io/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bitsnnfl.github.io/tags/image/</loc>
-    <lastmod>2018-10-01T16:15:09+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://bitsnnfl.github.io/</loc>
-    <lastmod>2018-10-01T16:15:09+08:00</lastmod>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -78,32 +33,7 @@
   </url>
   
   <url>
-    <loc>https://bitsnnfl.github.io/resources/</loc>
-    <lastmod>2018-10-01T16:15:09+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://bitsnnfl.github.io/tags/</loc>
-    <lastmod>2018-10-01T16:15:09+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bitsnnfl.github.io/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bitsnnfl.github.io/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bitsnnfl.github.io/tags/typography/</loc>
-    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
     <priority>0</priority>
   </url>
   
